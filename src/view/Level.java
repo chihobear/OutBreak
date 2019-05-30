@@ -24,7 +24,7 @@ import model.enemies.Enemy;
 /**
  * A level, representing a scene's content creator.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public abstract class Level implements Serializable {

@@ -10,7 +10,7 @@ import javafx.scene.Node;
 /**
  * Represents a single item in the level.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public abstract class LevelItem extends Observable {

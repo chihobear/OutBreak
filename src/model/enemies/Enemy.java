@@ -10,7 +10,7 @@ import model.MovingItem;
 /**
  * Basic enemy class.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class Enemy extends MovingItem implements Destructable {

@@ -5,7 +5,7 @@ import javafx.scene.Node;
 /**
  * Represents a collectable item in the thing. Implementation is still needed.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public abstract class Collectable extends LevelItem {

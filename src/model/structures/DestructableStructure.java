@@ -11,7 +11,7 @@ import model.Structure;
 /**
  * Structure that can be destroyed.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class DestructableStructure extends Structure implements Destructable {

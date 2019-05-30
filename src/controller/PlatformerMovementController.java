@@ -24,7 +24,7 @@ import model.enemies.Enemy;
 /**
  * Controls and handles all movement for the platformer.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class PlatformerMovementController extends Observable {

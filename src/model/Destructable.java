@@ -4,7 +4,7 @@ package model;
  * Represents a destructable thing in the platformer. Destructables may carry
  * collectables inside.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public interface Destructable {

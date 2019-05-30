@@ -8,7 +8,7 @@ import javafx.scene.Node;
  * Represents a structure that the user cannot pass through. In the future,
  * stuff like blocks that can be hit to get power-ups or pipes could extend this
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class Structure extends LevelItem {

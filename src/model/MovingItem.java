@@ -10,7 +10,7 @@ import javafx.scene.Node;
 /**
  * Class to represent a movable object in the level.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public abstract class MovingItem extends LevelItem {

@@ -17,7 +17,7 @@ import view.Level;
 /**
  * Represents a single piece of a level, with some start and end.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class LevelScene extends Observable implements Serializable {

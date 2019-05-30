@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Save the top 5 players. It can check and save top 5 player information.
  * 
- * @author Chen Wang
+ * @author Chenghao Xiong
  *
  */
 

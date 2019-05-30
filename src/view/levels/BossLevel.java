@@ -21,7 +21,7 @@ import view.Level;
 /**
  * Boss level for the platformer.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class BossLevel extends Level {

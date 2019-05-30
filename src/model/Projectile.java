@@ -8,7 +8,7 @@ import javafx.scene.Node;
 /**
  * Projectile in the platformer.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class Projectile extends MovingItem {

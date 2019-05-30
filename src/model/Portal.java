@@ -8,7 +8,7 @@ import javafx.scene.Node;
 /**
  * Portal to the next scene in the platformer.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class Portal extends LevelItem {

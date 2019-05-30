@@ -7,7 +7,7 @@ import model.MainCharacter;
 /**
  * Upgrade for the player than can reduce the cooldown of their projectile.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class CooldownReduceUpgrade extends Collectable {

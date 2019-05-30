@@ -8,7 +8,7 @@ import javafx.scene.Node;
 /**
  * Enemy that will continuously move left without jumping, like a goomba
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class MovingLeftEnemy extends Enemy {

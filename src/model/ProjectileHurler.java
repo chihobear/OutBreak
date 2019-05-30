@@ -3,7 +3,7 @@ package model;
 /**
  * Represents something that has the potential to fire a projectile.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public interface ProjectileHurler {

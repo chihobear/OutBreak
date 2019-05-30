@@ -7,7 +7,7 @@ import model.MainCharacter;
 /**
  * Upgrade that will increase the damage of the player's projectiles.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class DamageBoostUpgrade extends Collectable {

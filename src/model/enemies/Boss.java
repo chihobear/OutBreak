@@ -11,7 +11,7 @@ import model.ProjectileHurler;
 /**
  * Boss enemy for the platformer. Shoots projectiles, unlike the other enemies.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong
  *
  */
 public class Boss extends OscillatingEnemy implements ProjectileHurler {

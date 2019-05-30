@@ -10,7 +10,7 @@ import javafx.scene.Node;
 /**
  * Enemy that will walk back and forth, possibly jumping in the process.
  * 
- * @author Bohan Li
+ * @author Chenghao Xiong 
  *
  */
 public class OscillatingEnemy extends Enemy {
