@@ -144,7 +144,7 @@ public class OurTestingLevel extends Level {
 
 		MainCharacter player = new MainCharacter(lives, createCharacter(PLAYER_INITIAL_X, PLAYER_INITIAL_Y, PLAYER_SIZE, PLAYER_SIZE, new Image("standStill.png")));
 
-		setMainSprite(player);
+		setMainSprite(player); 
 
 		Level next = new BossLevel();
 		next.initContent(lives);
